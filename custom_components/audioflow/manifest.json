@@ -6,21 +6,21 @@
     ],
     "bluetooth": [],
     "codeowners": [
-        "@siku2"
+        "@vegardj"
     ],
     "config_flow": true,
     "dependencies": [],
     "dhcp": [],
-    "documentation": "https://github.com/siku2/hass-audioflow",
+    "documentation": "https://github.com/vegardj/hass-audioflow",
     "homekit": {},
     "integration_type": "device",
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/siku2/hass-audioflow/issues",
+    "issue_tracker": "https://github.com/vegardj/hass-audioflow/issues",
     "loggers": [],
     "mqtt": [],
     "requirements": [],
     "ssdp": [],
     "usb": [],
-    "version": "0.0.0",
+    "version": "1.0.3",
     "zeroconf": []
 }
